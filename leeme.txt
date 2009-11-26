@@ -1,0 +1,26 @@
+/************************************
+**                                 **
+**             iTo-Do              **
+**                                 **
+**  Autor: DrWaky                  **
+**  Comienzo: 27-11-2009           **
+**                                 **
+************************************/
+
+Arto de no tener una buena aplicación de gestión de tareas por hacer
+para iPhone, he decidido comenzar la mía propia y como no podía ser
+de otra manera en Software Libre.
+
+Esta será mi primera aplciación en x-code y la primera para iPhone.
+Espero hacerlo lo mejor posible y aprender en el camino.
+
+Sientete libre de colaborar en lo que quieras y puedas, toda ayuda
+será agradecida, y sois todos bienvenidos.
+
+Si el proyecto te gusta o quieres aportar algo, adelante :)
+
+Saludos!
+
+DrWaky
+
+
